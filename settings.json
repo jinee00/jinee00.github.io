@@ -1,7 +1,7 @@
 {
-    "pageTitle": "나만의 인종스타일 테스트",
-    "mainTitle": "난 무슨 인종상일까",
-    "subtitle": "얼굴로 보는 인공지능 인종상 테스트",
+    "pageTitle": "나만의인종스타일테스트",
+    "mainTitle": "난무슨인종상일까",
+    "subtitle": "얼굴로보는 인공지능인종상테스트",
     "footerText": "&copy; 정치테크 2024. All Rights Reserved.",
     
     "modelUrl": "https://teachablemachine.withgoogle.com/models/ny3BjPLFX/",
